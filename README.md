@@ -1,3 +1,8 @@
+This repository is merged for team organization
+
+you can see new version at https://github.com/zero-cola 
+
+
 # Random-Shuffle-CNN-for-swell-prediction
 
 ## [Posco Industrail AI Challenge](https://posco-aichallenge.kr/project/p02/) - 1st prize  
